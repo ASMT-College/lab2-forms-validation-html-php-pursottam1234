@@ -41,8 +41,7 @@
             } else {
                 document.getElementById("erroremail2").innerHTML = "Invalid email";
                 return false;
-            }
-            
+            }   
         }
     </script>
 </body>
